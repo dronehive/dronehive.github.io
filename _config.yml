@@ -30,7 +30,7 @@ twitter_username: ""
 github_username:  dronehive
 
 # Build settings
-theme: Hacker
+theme: hacker
 plugins:
   - jekyll-feed
 
